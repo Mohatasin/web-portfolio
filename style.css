@@ -1,0 +1,42 @@
+body{
+
+    font-family: 'Oswald', sans-serif;
+
+
+
+}
+
+
+h1{
+    color: rgb(77, 77, 197);
+
+    font-size: 50px;
+}
+
+
+.one{
+
+    color: rgb(71, 16, 64);
+}
+
+
+
+.half-width{
+
+width: 50%;
+float: left;
+
+margin-left: 5%;
+
+
+
+
+
+}
+
+
+
+.sec-half-width img{
+
+    width: 40%;
+}
