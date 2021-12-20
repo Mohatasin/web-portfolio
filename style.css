@@ -2,13 +2,13 @@ body{
 
     font-family: 'Oswald', sans-serif;
 
-
+    margin: 0;
 
 }
 
 
 h1{
-    color: rgb(77, 77, 197);
+    color: rgb(230, 62, 62);
 
     font-size: 50px;
 }
@@ -16,7 +16,7 @@ h1{
 
 .one{
 
-    color: rgb(71, 16, 64);
+    color:rgb(55, 55, 116);
 }
 
 
@@ -39,4 +39,72 @@ margin-left: 5%;
 .sec-half-width img{
 
     width: 40%;
+    margin-top: 5%;
+    margin-left: 5% ;
 }
+
+
+
+
+.top{
+
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+    
+    
+    }
+
+
+    section{
+
+      height: 500px;
+
+
+    }
+
+
+
+
+
+
+    h4{
+
+        font-style:italic;
+        color: rgb(47, 47, 206);
+        text-shadow: aqua;
+    }
+
+
+
+
+
+    .first-link{
+
+        color: rgb(117, 23, 67);
+        font-weight: bold;
+        text-decoration: none;
+        font-size: large;
+        border-radius: 5px;
+        background-image: linear-gradient(rgb(106, 106, 192),tomato);
+        padding: 5px 20px;
+    }
+
+   
+
+
+    .whatmeth{
+
+       margin-top: 50px;
+       margin-left: 5%;
+     
+
+    }
+
+
+
+    .mid{
+   margin-left: 5%;
+   margin-top: 150px;
+   text-align: left;
+
+    }
