@@ -116,8 +116,9 @@ margin-left: 5%;
    
 
 
-   h3{
+   exp-h3{
        font-size: 50px;
+       
    }
 
 
@@ -149,6 +150,7 @@ margin-left: 5%;
       border-left: 7px solid;
       border-image:linear-gradient(lightsalmon,tomato);
       border-image-slice: 1;
+      background-color: black;
     }
 
     .Crunchyroll{
@@ -165,6 +167,7 @@ margin-left: 5%;
         border-left: 7px solid;
         border-image:linear-gradient(180deg,rgb(58, 58, 119),#6e0669);
         border-image-slice: 1;
+        background-color: black;
     }
 
 
@@ -194,5 +197,10 @@ h5{
    background-image: url(image/exp-bg.png);
    background-repeat: no-repeat;
    background-position: left;
+   
+}
 
+h3{
+    color: violet;
+    font-size: 50px;
 }
