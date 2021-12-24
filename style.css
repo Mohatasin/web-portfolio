@@ -3,6 +3,8 @@ body{
     font-family: 'Oswald', sans-serif;
 
     margin: 0;
+    padding: 0%;
+    
 
 }
 
@@ -108,3 +110,89 @@ margin-left: 5%;
    text-align: left;
 
     }
+
+
+
+   
+
+
+   h3{
+       font-size: 50px;
+   }
+
+
+    p{
+        color: dimgray;
+    }
+
+
+    .f{
+
+     background-image: url(image/dream-bg.png);
+     background-repeat: no-repeat;
+     background-position: right;
+    }
+
+
+    .netflix{
+
+
+      width: 38%;
+      float: left;
+      margin-top: 100px;
+      margin-left: 10%;
+
+      box-shadow: violet 10px 10px 40px;
+      padding-left: 10px;
+      height: 95%;
+
+      border-left: 7px solid;
+      border-image:linear-gradient(lightsalmon,tomato);
+      border-image-slice: 1;
+    }
+
+    .Crunchyroll{
+
+        width: 38%;
+        float: right;
+        margin-top: 100px;
+        margin-right: 10%;
+        box-shadow: violet 10px 10px 40px;
+        padding-left: 10px;
+        height: 95%;
+
+
+        border-left: 7px solid;
+        border-image:linear-gradient(180deg,rgb(58, 58, 119),#6e0669);
+        border-image-slice: 1;
+    }
+
+
+
+
+h5{
+
+   color: orange;
+    font-size: 30px;
+
+}
+
+
+.n-vs-c{
+
+  text-align: center;
+  font-size: 60px;
+
+}
+
+
+.blank{
+    font-size: 0%;
+}
+
+.exp{
+   background-image: url(image/exp-bg.png);
+   background-repeat: no-repeat;
+   background-position: left;
+
+}
